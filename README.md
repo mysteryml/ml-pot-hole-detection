@@ -1,4 +1,4 @@
-# mlpothole
+# Intelligent Pot Hole Detection 
 Intelligent Real Time Pot Hole detection using imaging and computer vision.
 
 
@@ -9,6 +9,5 @@ https://repository.up.ac.za/bitstream/handle/2263/57733/Nienaber_Detecting_2015.
 http://www.icter.org/conference/icter2016/sites/default/files/icter/IITC-2008p1.pdf
 https://pdfs.semanticscholar.org/f28c/b61a43f16bde57072819b107e0051c6c0afc.pdf
 http://www.wseas.us/e-library/conferences/2013/Antalya/ITCN/ITCN-05.pdf
-
 https://github.com/marty-Wallace/Pothole
 
