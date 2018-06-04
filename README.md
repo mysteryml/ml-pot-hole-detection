@@ -1,4 +1,4 @@
-# Intelligent PotHole Detection 
+# Intelligent Pothole Detection 
 Intelligent Pothole detection using imaging and computer vision.
 
 
