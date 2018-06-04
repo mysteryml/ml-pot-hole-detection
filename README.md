@@ -29,6 +29,10 @@ http://www.image-net.org/synset?wnid=n09398076
    - Contour Detection
    - Shape Detection
 
+- Contour drawing
+- Perspective (Not included)
+- Grayscale
+- Color Tone
 
 #### Training
 1. Training Data Preparation
