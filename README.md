@@ -1,6 +1,15 @@
 # Intelligent Pothole Detection 
 Intelligent Pothole detection using imaging and computer vision.
 
+# Approach
+
+# Technical Details
+
+# How to Run and Test
+
+# Further Improvements
+
+
 
 ## Literature Review
 
