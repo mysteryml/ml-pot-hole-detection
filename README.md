@@ -14,16 +14,18 @@ Intelligent Pothole detection using imaging and computer vision.
 
 ## Solution Approach
 
-http://scikit-image.org/
-https://opencv.org/
+### Imapge Processing Libraries
+* http://scikit-image.org/
+* https://opencv.org/
 
 ### Approach
 
 ##### Training
 1. Samples Collection
 2. Image Preprocessing
-3. Training and Classification Algorithm Selection
-4. Reporting on Accuracy and Efficiency
+3. Feature Selection
+4. Training and Classification Algorithm Selection
+5. Reporting on Accuracy and Efficiency
 
 #### Prediction
 1. Image Preprocessing
