@@ -19,6 +19,16 @@ https://opencv.org/
 
 ### Approach
 
+##### Training
+1. Samples Collection
+2. Image Preprocessing
+3. Training and Classification Algorithm Selection
+4. Reporting on Accuracy and Efficiency
+
+#### Prediction
+1. Image Preprocessing
+2. Image Classification
+
 ### Technical Design
 
 ### How to Run?
