@@ -7,8 +7,11 @@ Intelligent Pothole detection using imaging and computer vision.
 
 # How to Run and Test
 
+# Performance Benchmark
+
 # Further Improvements
 
+# Applications
 
 
 ## Literature Review
