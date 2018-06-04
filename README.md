@@ -1,5 +1,5 @@
-# Intelligent Pot Hole Detection 
-Intelligent Real Time Pot Hole detection using imaging and computer vision.
+# Intelligent PotHole Detection 
+Intelligent Pothole detection using imaging and computer vision.
 
 
 ## Literature Review
