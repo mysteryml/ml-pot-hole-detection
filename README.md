@@ -10,6 +10,7 @@ Intelligent Pothole detection using imaging and computer vision.
 3. https://pdfs.semanticscholar.org/f28c/b61a43f16bde57072819b107e0051c6c0afc.pdf
 4. http://www.wseas.us/e-library/conferences/2013/Antalya/ITCN/ITCN-05.pdf
 5. http://www.ijetsr.com/images/short_pdf/1491839718_dmce906_venue_ijetsr.pdf
+6. http://cisjournal.org/journalofcomputing/archive/vol8no1/vol8no1_5.pdf
 
 #### Using Speed Sensors
 1. https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38
