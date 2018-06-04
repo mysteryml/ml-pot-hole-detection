@@ -22,7 +22,7 @@ Intelligent Pothole detection using imaging and computer vision.
 1. Samples Collection
 http://www.image-net.org/synset?wnid=n09398076
 2. Image Preprocessing
-3.Visualization
+3. Visualization
 4. Feature Selection
    - Color Model
    - Contour Detection
