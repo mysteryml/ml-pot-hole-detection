@@ -14,6 +14,9 @@ Intelligent Pothole detection using imaging and computer vision.
 
 ## Solution Approach
 
+http://scikit-image.org/
+https://opencv.org/
+
 ### Approach
 
 ### Technical Design
