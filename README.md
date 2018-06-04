@@ -2,7 +2,7 @@
 Intelligent Real Time Pot Hole detection using imaging and computer vision.
 
 
-## Some of the earlier work done in this space :
+## Literature Review
 
 1. https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38
 2. https://repository.up.ac.za/bitstream/handle/2263/57733/Nienaber_Detecting_2015.pdf?sequence=1
