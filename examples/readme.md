@@ -2,6 +2,8 @@
 We would see examples of good/bad road. On bad road specifically we would encounter potholes.
 
 # Example Images
+
+## Potholes
 <img src="http://www.valeofglamorgan.gov.uk/Images/Vehicles%20and%20roads/Pothole.jpg" width="300">
 <img src="https://www.ncdot.gov/contact/report/pothole/images/pothole.jpg" width="300">
 <img src="https://cbsboston.files.wordpress.com/2018/01/pothole.jpg" width="300">
