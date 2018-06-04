@@ -16,11 +16,11 @@ Intelligent Pothole detection using imaging and computer vision.
 
 ### Approach
 
-### Technical Details
+### Technical Design
 
-### How to Run and Test
+### How to Run?
 
-### Performance Benchmark
+### Performance Data
 
 ### Further Improvements
 
