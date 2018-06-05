@@ -2,8 +2,12 @@
 Intelligent Pothole detection using imaging and computer vision.
 
 ## Problem Statement
-### Literature Review
+Bowl-shaped holes of various sizes in the pavement surface. Minimum plan dimension is 150 mm. Circular potholes should have a minimum diameter of 150 mm. A 150-mmdiameter circle should fit inside irregular-shaped potholes.
 
+
+### Literature Review
+#### Generic
+1. https://rosap.ntl.bts.gov/view/dot/28612
 #### Using Images
 1. https://repository.up.ac.za/bitstream/handle/2263/57733/Nienaber_Detecting_2015.pdf?sequence=1
 2. http://www.icter.org/conference/icter2016/sites/default/files/icter/IITC-2008p1.pdf
@@ -11,6 +15,7 @@ Intelligent Pothole detection using imaging and computer vision.
 4. http://www.wseas.us/e-library/conferences/2013/Antalya/ITCN/ITCN-05.pdf
 5. http://www.ijetsr.com/images/short_pdf/1491839718_dmce906_venue_ijetsr.pdf
 6. http://cisjournal.org/journalofcomputing/archive/vol8no1/vol8no1_5.pdf
+7. https://www.hindawi.com/journals/mpe/2015/968361/
 
 #### Using Speed Sensors
 1. https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38
