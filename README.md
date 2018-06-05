@@ -57,8 +57,8 @@ http://www.image-net.org/synset?wnid=n09398076
 http://blog.mmast.net/python-image-processing-libraries-performance-opencv-scipy-scikit-image
 
 ### Technical Design
+<img src="https://www.hindawi.com/journals/mpe/2015/968361/fig3/" width="600">
 
-https://www.hindawi.com/journals/mpe/2015/968361/fig3/
 
 ### How to Run?
 
